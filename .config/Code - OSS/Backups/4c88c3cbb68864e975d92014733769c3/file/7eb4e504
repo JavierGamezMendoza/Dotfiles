@@ -1,0 +1,31 @@
+file:///home/habi/git/ahorcado.html {"mtime":1636048627086,"ctime":1636044257522,"size":755,"etag":"37odp6p0fob","orphaned":false,"typeId":""}
+<!DOCTYPE html>
+<html>
+    <heada>
+        <meta charset="utf-8">
+        <title>
+        Practica 1
+        </title> 
+        <link rel="stylesheet" href="estilocalc.css">
+    </head>
+    <body onload="carga()">
+    <script src="ahorcado.js"></script>
+
+    <div id="calc">
+            <h1 class="Enunciado">AHORCADO</h1>
+            <h2>(CUTRE)</h2>
+        </p>
+        <p id="parrafo2">
+        </p>
+        <!-- <p>
+            <input placeholder="Palabra" class="campo" type="password" id=palabra>
+        </p> -->
+        <p>
+            <input placeholder="Letter" class="campo" type="text" id=letra>
+        </p>
+        <p>
+        <button class="boton" onclick="letras(letra.value)" > Guess </button>
+        </p>
+    </div>
+    </body>
+</html> 

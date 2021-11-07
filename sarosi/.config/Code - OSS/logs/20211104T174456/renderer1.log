@@ -1,0 +1,529 @@
+[2021-11-04 17:45:05.486] [renderer1] [info] Starting extension host with pid 1350.
+[2021-11-04 17:45:09.781] [renderer1] [error] [Extension Host] (node:1350) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2021-11-04 17:46:43.319] [renderer1] [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: No se puede escribir el archivo "/etc/lightdm/lightdm-webkit2-greeter.conf" (Error: Archivo Modificado Desde) file:///etc/lightdm/lightdm-webkit2-greeter.conf
+[2021-11-04 17:46:43.362] [renderer1] [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: No se puede escribir el archivo "/etc/lightdm/lightdm-webkit2-greeter.conf" (Error: Archivo Modificado Desde) file:///etc/lightdm/lightdm-webkit2-greeter.conf
+[2021-11-04 17:46:43.367] [renderer1] [info] [lifecycle]: Shutdown was prevented (id: veto.backups)
+[2021-11-04 17:46:56.799] [renderer1] [info] Starting extension host with pid 1669.
+[2021-11-04 17:46:57.417] [renderer1] [error] [Extension Host] (node:1669) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2021-11-04 17:48:25.189] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/simple-browser/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/simple-browser/package.json'
+[2021-11-04 17:48:25.189] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/debug-server-ready/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/debug-server-ready/package.json'
+[2021-11-04 17:48:45.787] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/simple-browser/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/simple-browser/package.json'
+[2021-11-04 17:48:46.635] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/debug-server-ready/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/debug-server-ready/package.json'
+[2021-11-04 17:49:07.447] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/simple-browser/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/simple-browser/package.json'
+[2021-11-04 17:49:07.447] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/debug-server-ready/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/debug-server-ready/package.json'
+[2021-11-04 17:49:12.098] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/simple-browser/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/simple-browser/package.json'
+[2021-11-04 17:49:31.411] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/simple-browser/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/simple-browser/package.json'
+[2021-11-04 17:49:31.411] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/debug-server-ready/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/debug-server-ready/package.json'
+[2021-11-04 17:50:23.833] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/simple-browser/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/simple-browser/package.json'
+[2021-11-04 17:50:23.833] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/debug-server-ready/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/debug-server-ready/package.json'
+[2021-11-04 17:52:11.536] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/debug-server-ready/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/debug-server-ready/package.json'
+[2021-11-04 17:52:11.536] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/simple-browser/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/simple-browser/package.json'
+[2021-11-04 17:52:11.536] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/grunt/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/grunt/package.json'
+[2021-11-04 17:52:11.536] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/gulp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/gulp/package.json'
+[2021-11-04 17:52:11.537] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/jake/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/jake/package.json'
+[2021-11-04 17:52:11.537] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/merge-conflict/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/merge-conflict/package.json'
+[2021-11-04 17:52:11.537] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/github/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/github/package.json'
+[2021-11-04 17:52:11.537] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/image-preview/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/image-preview/package.json'
+[2021-11-04 17:52:11.537] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/github-authentication/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/github-authentication/package.json'
+[2021-11-04 17:52:11.538] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/microsoft-authentication/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/microsoft-authentication/package.json'
+[2021-11-04 17:52:11.538] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/json-language-features/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/json-language-features/package.json'
+[2021-11-04 17:52:11.538] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/css/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/css/package.json'
+[2021-11-04 17:52:11.538] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/log/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/log/package.json'
+[2021-11-04 17:52:11.538] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/debug-auto-launch/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/debug-auto-launch/package.json'
+[2021-11-04 17:52:11.539] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/less/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/less/package.json'
+[2021-11-04 17:52:11.539] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/go/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/go/package.json'
+[2021-11-04 17:52:11.539] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/lua/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/lua/package.json'
+[2021-11-04 17:52:11.539] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/scss/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/scss/package.json'
+[2021-11-04 17:52:11.539] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/rust/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/rust/package.json'
+[2021-11-04 17:52:11.540] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/razor/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/razor/package.json'
+[2021-11-04 17:52:11.540] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/shaderlab/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/shaderlab/package.json'
+[2021-11-04 17:52:20.146] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/debug-server-ready/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/debug-server-ready/package.json'
+[2021-11-04 17:52:20.149] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/simple-browser/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/simple-browser/package.json'
+[2021-11-04 17:52:20.149] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/grunt/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/grunt/package.json'
+[2021-11-04 17:52:20.150] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/gulp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/gulp/package.json'
+[2021-11-04 17:52:20.150] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/jake/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/jake/package.json'
+[2021-11-04 17:52:20.150] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/merge-conflict/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/merge-conflict/package.json'
+[2021-11-04 17:52:20.150] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/github/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/github/package.json'
+[2021-11-04 17:52:20.154] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/image-preview/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/image-preview/package.json'
+[2021-11-04 17:52:20.154] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/github-authentication/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/github-authentication/package.json'
+[2021-11-04 17:52:20.154] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/microsoft-authentication/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/microsoft-authentication/package.json'
+[2021-11-04 17:52:20.978] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/debug-server-ready/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/debug-server-ready/package.json'
+[2021-11-04 17:52:22.155] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/debug-server-ready/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/debug-server-ready/package.json'
+[2021-11-04 17:52:24.152] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/debug-server-ready/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/debug-server-ready/package.json'
+[2021-11-04 17:52:24.152] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/simple-browser/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/simple-browser/package.json'
+[2021-11-04 17:52:24.153] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/grunt/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/grunt/package.json'
+[2021-11-04 17:52:24.153] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/jake/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/jake/package.json'
+[2021-11-04 17:52:24.153] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/gulp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/gulp/package.json'
+[2021-11-04 17:52:24.154] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/merge-conflict/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/merge-conflict/package.json'
+[2021-11-04 17:52:24.154] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/github/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/github/package.json'
+[2021-11-04 17:52:24.154] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/github-authentication/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/github-authentication/package.json'
+[2021-11-04 17:52:24.154] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/image-preview/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/image-preview/package.json'
+[2021-11-04 17:52:24.155] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/microsoft-authentication/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/microsoft-authentication/package.json'
+[2021-11-04 17:52:54.009] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/debug-server-ready/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/debug-server-ready/package.json'
+[2021-11-04 17:52:57.630] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/debug-server-ready/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/debug-server-ready/package.json'
+[2021-11-04 17:52:57.631] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/simple-browser/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/simple-browser/package.json'
+[2021-11-04 17:54:12.426] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/debug-server-ready/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/debug-server-ready/package.json'
+[2021-11-04 17:54:12.700] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/grunt/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/grunt/package.json'
+[2021-11-04 17:54:12.700] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/gulp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/gulp/package.json'
+[2021-11-04 17:54:12.700] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/jake/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/jake/package.json'
+[2021-11-04 17:54:12.700] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/merge-conflict/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/merge-conflict/package.json'
+[2021-11-04 17:54:12.701] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/github/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/github/package.json'
+[2021-11-04 17:54:12.701] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/image-preview/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/image-preview/package.json'
+[2021-11-04 17:54:12.701] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/github-authentication/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/github-authentication/package.json'
+[2021-11-04 17:54:12.701] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/microsoft-authentication/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/microsoft-authentication/package.json'
+[2021-11-04 17:54:12.701] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/simple-browser/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/simple-browser/package.json'
+[2021-11-04 17:54:12.702] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/css/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/css/package.json'
+[2021-11-04 17:54:12.702] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/log/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/log/package.json'
+[2021-11-04 17:54:12.702] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/json-language-features/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/json-language-features/package.json'
+[2021-11-04 17:54:12.702] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/debug-auto-launch/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/debug-auto-launch/package.json'
+[2021-11-04 17:54:12.702] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/less/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/less/package.json'
+[2021-11-04 17:54:12.703] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/go/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/go/package.json'
+[2021-11-04 17:54:12.703] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/lua/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/lua/package.json'
+[2021-11-04 17:54:12.703] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/scss/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/scss/package.json'
+[2021-11-04 17:54:12.703] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/rust/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/rust/package.json'
+[2021-11-04 17:54:15.643] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/debug-server-ready/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/debug-server-ready/package.json'
+[2021-11-04 17:54:15.648] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/simple-browser/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/simple-browser/package.json'
+[2021-11-04 17:54:15.649] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/grunt/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/grunt/package.json'
+[2021-11-04 17:54:15.649] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/gulp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/gulp/package.json'
+[2021-11-04 17:54:15.649] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/jake/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/jake/package.json'
+[2021-11-04 17:54:15.649] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/github/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/github/package.json'
+[2021-11-04 17:54:15.649] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/merge-conflict/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/merge-conflict/package.json'
+[2021-11-04 17:54:15.650] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/image-preview/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/image-preview/package.json'
+[2021-11-04 17:54:15.650] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/microsoft-authentication/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/microsoft-authentication/package.json'
+[2021-11-04 17:54:15.650] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/github-authentication/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/github-authentication/package.json'
+[2021-11-04 18:38:52.898] [renderer1] [error] <semantic> TypeScript Server Error (4.4.3)
+Debug Failure. Did not expect JsxClosingFragment to have an Identifier in its trivia
+Error: Debug Failure. Did not expect JsxClosingFragment to have an Identifier in its trivia
+    at addSyntheticNodes (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155629:30)
+    at createChildren (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155618:9)
+    at NodeObject.getChildren (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155562:56)
+    at find (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121609:30)
+    at find (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121643:32)
+    at find (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121643:32)
+    at find (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121643:32)
+    at find (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121643:32)
+    at find (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121643:32)
+    at Object.findPrecedingToken (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121602:22)
+    at getRelevantTokens (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:128073:36)
+    at Object.getCompletionsAtPosition (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:125913:33)
+    at Proxy.getCompletionsAtPosition (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:156793:35)
+    at IOSession.Session.getCompletions (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168231:64)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:167078:61)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168880:88
+    at IOSession.Session.executeWithRequestId (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168871:28)
+    at IOSession.Session.executeCommand (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168880:33)
+    at IOSession.Session.onMessage (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168906:35)
+    at Interface.<anonymous> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:171511:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23): Error: <semantic> TypeScript Server Error (4.4.3)
+Debug Failure. Did not expect JsxClosingFragment to have an Identifier in its trivia
+Error: Debug Failure. Did not expect JsxClosingFragment to have an Identifier in its trivia
+    at addSyntheticNodes (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155629:30)
+    at createChildren (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155618:9)
+    at NodeObject.getChildren (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155562:56)
+    at find (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121609:30)
+    at find (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121643:32)
+    at find (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121643:32)
+    at find (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121643:32)
+    at find (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121643:32)
+    at find (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121643:32)
+    at Object.findPrecedingToken (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121602:22)
+    at getRelevantTokens (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:128073:36)
+    at Object.getCompletionsAtPosition (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:125913:33)
+    at Proxy.getCompletionsAtPosition (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:156793:35)
+    at IOSession.Session.getCompletions (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168231:64)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:167078:61)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168880:88
+    at IOSession.Session.executeWithRequestId (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168871:28)
+    at IOSession.Session.executeCommand (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168880:33)
+    at IOSession.Session.onMessage (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168906:35)
+    at Interface.<anonymous> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:171511:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+	at Function.create (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:459856)
+	at dispatchResponse (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:453692)
+	at dispatchMessage (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:452549)
+	at /usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:452034
+	at a.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at m.onLengthData (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:462785)
+	at Socket.<anonymous> (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:462432)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-11-04 18:38:53.022] [renderer1] [error] <semantic> TypeScript Server Error (4.4.3)
+Debug Failure. Did not expect JsxClosingFragment to have an Identifier in its trivia
+Error: Debug Failure. Did not expect JsxClosingFragment to have an Identifier in its trivia
+    at addSyntheticNodes (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155629:30)
+    at createChildren (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155618:9)
+    at NodeObject.getChildren (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155562:56)
+    at getTokenAtPositionWorker (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121524:43)
+    at Object.getTokenAtPosition (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121516:16)
+    at getInfo (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:150765:28)
+    at Object.getAvailableActions (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:150735:28)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:142780:30
+    at getIterator (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:573:23)
+    at Object.flatMapIterator (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:556:27)
+    at Object.getApplicableRefactors (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:142776:36)
+    at Proxy.getApplicableRefactors (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:157560:32)
+    at IOSession.Session.getApplicableRefactors (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168512:53)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:167223:61)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168880:88
+    at IOSession.Session.executeWithRequestId (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168871:28)
+    at IOSession.Session.executeCommand (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168880:33)
+    at IOSession.Session.onMessage (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168906:35)
+    at Interface.<anonymous> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:171511:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23): Error: <semantic> TypeScript Server Error (4.4.3)
+Debug Failure. Did not expect JsxClosingFragment to have an Identifier in its trivia
+Error: Debug Failure. Did not expect JsxClosingFragment to have an Identifier in its trivia
+    at addSyntheticNodes (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155629:30)
+    at createChildren (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155618:9)
+    at NodeObject.getChildren (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155562:56)
+    at getTokenAtPositionWorker (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121524:43)
+    at Object.getTokenAtPosition (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121516:16)
+    at getInfo (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:150765:28)
+    at Object.getAvailableActions (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:150735:28)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:142780:30
+    at getIterator (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:573:23)
+    at Object.flatMapIterator (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:556:27)
+    at Object.getApplicableRefactors (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:142776:36)
+    at Proxy.getApplicableRefactors (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:157560:32)
+    at IOSession.Session.getApplicableRefactors (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168512:53)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:167223:61)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168880:88
+    at IOSession.Session.executeWithRequestId (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168871:28)
+    at IOSession.Session.executeCommand (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168880:33)
+    at IOSession.Session.onMessage (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168906:35)
+    at Interface.<anonymous> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:171511:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+	at Function.create (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:459856)
+	at dispatchResponse (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:453692)
+	at dispatchMessage (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:452549)
+	at /usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:452034
+	at a.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at m.onLengthData (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:462785)
+	at Socket.<anonymous> (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:462432)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-11-04 18:38:53.289] [renderer1] [error] <semantic> TypeScript Server Error (4.4.3)
+Debug Failure. Did not expect JsxClosingFragment to have an Identifier in its trivia
+Error: Debug Failure. Did not expect JsxClosingFragment to have an Identifier in its trivia
+    at addSyntheticNodes (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155629:30)
+    at createChildren (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155618:9)
+    at NodeObject.getChildren (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155562:56)
+    at find (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121609:30)
+    at find (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121643:32)
+    at find (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121643:32)
+    at find (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121643:32)
+    at find (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121643:32)
+    at find (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121643:32)
+    at Object.findPrecedingToken (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121602:22)
+    at getRelevantTokens (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:128073:36)
+    at Object.getCompletionsAtPosition (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:125913:33)
+    at Proxy.getCompletionsAtPosition (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:156793:35)
+    at IOSession.Session.getCompletions (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168231:64)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:167078:61)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168880:88
+    at IOSession.Session.executeWithRequestId (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168871:28)
+    at IOSession.Session.executeCommand (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168880:33)
+    at IOSession.Session.onMessage (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168906:35)
+    at Interface.<anonymous> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:171511:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23): Error: <semantic> TypeScript Server Error (4.4.3)
+Debug Failure. Did not expect JsxClosingFragment to have an Identifier in its trivia
+Error: Debug Failure. Did not expect JsxClosingFragment to have an Identifier in its trivia
+    at addSyntheticNodes (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155629:30)
+    at createChildren (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155618:9)
+    at NodeObject.getChildren (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155562:56)
+    at find (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121609:30)
+    at find (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121643:32)
+    at find (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121643:32)
+    at find (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121643:32)
+    at find (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121643:32)
+    at find (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121643:32)
+    at Object.findPrecedingToken (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121602:22)
+    at getRelevantTokens (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:128073:36)
+    at Object.getCompletionsAtPosition (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:125913:33)
+    at Proxy.getCompletionsAtPosition (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:156793:35)
+    at IOSession.Session.getCompletions (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168231:64)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:167078:61)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168880:88
+    at IOSession.Session.executeWithRequestId (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168871:28)
+    at IOSession.Session.executeCommand (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168880:33)
+    at IOSession.Session.onMessage (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168906:35)
+    at Interface.<anonymous> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:171511:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+	at Function.create (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:459856)
+	at dispatchResponse (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:453692)
+	at dispatchMessage (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:452549)
+	at /usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:452034
+	at a.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at m.onLengthData (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:462785)
+	at Socket.<anonymous> (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:462432)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-11-04 18:38:54.332] [renderer1] [error] <semantic> TypeScript Server Error (4.4.3)
+Debug Failure. Did not expect JsxClosingFragment to have an Identifier in its trivia
+Error: Debug Failure. Did not expect JsxClosingFragment to have an Identifier in its trivia
+    at addSyntheticNodes (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155629:30)
+    at createChildren (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155618:9)
+    at NodeObject.getChildren (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155562:56)
+    at getTokenAtPositionWorker (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121524:43)
+    at Object.getTokenAtPosition (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121516:16)
+    at getInfo (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:150765:28)
+    at Object.getAvailableActions (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:150735:28)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:142780:30
+    at getIterator (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:573:23)
+    at Object.flatMapIterator (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:556:27)
+    at Object.getApplicableRefactors (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:142776:36)
+    at Proxy.getApplicableRefactors (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:157560:32)
+    at IOSession.Session.getApplicableRefactors (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168512:53)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:167223:61)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168880:88
+    at IOSession.Session.executeWithRequestId (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168871:28)
+    at IOSession.Session.executeCommand (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168880:33)
+    at IOSession.Session.onMessage (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168906:35)
+    at Interface.<anonymous> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:171511:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23): Error: <semantic> TypeScript Server Error (4.4.3)
+Debug Failure. Did not expect JsxClosingFragment to have an Identifier in its trivia
+Error: Debug Failure. Did not expect JsxClosingFragment to have an Identifier in its trivia
+    at addSyntheticNodes (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155629:30)
+    at createChildren (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155618:9)
+    at NodeObject.getChildren (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155562:56)
+    at getTokenAtPositionWorker (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121524:43)
+    at Object.getTokenAtPosition (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121516:16)
+    at getInfo (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:150765:28)
+    at Object.getAvailableActions (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:150735:28)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:142780:30
+    at getIterator (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:573:23)
+    at Object.flatMapIterator (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:556:27)
+    at Object.getApplicableRefactors (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:142776:36)
+    at Proxy.getApplicableRefactors (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:157560:32)
+    at IOSession.Session.getApplicableRefactors (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168512:53)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:167223:61)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168880:88
+    at IOSession.Session.executeWithRequestId (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168871:28)
+    at IOSession.Session.executeCommand (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168880:33)
+    at IOSession.Session.onMessage (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168906:35)
+    at Interface.<anonymous> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:171511:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+	at Function.create (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:459856)
+	at dispatchResponse (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:453692)
+	at dispatchMessage (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:452549)
+	at /usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:452034
+	at a.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at m.onLengthData (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:462785)
+	at Socket.<anonymous> (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:462432)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-11-04 18:38:54.628] [renderer1] [error] <semantic> TypeScript Server Error (4.4.3)
+Debug Failure. Did not expect JsxClosingFragment to have an Identifier in its trivia
+Error: Debug Failure. Did not expect JsxClosingFragment to have an Identifier in its trivia
+    at addSyntheticNodes (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155629:30)
+    at createChildren (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155618:9)
+    at NodeObject.getChildren (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155562:56)
+    at getTokenAtPositionWorker (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121524:43)
+    at getTouchingToken (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121511:16)
+    at Object.getTouchingPropertyName (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121503:16)
+    at Object.getDocumentHighlights (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:128567:27)
+    at Proxy.getDocumentHighlights (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:156894:42)
+    at IOSession.Session.getDocumentHighlights (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:167883:71)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:167185:61)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168880:88
+    at IOSession.Session.executeWithRequestId (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168871:28)
+    at IOSession.Session.executeCommand (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168880:33)
+    at IOSession.Session.onMessage (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168906:35)
+    at Interface.<anonymous> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:171511:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23): Error: <semantic> TypeScript Server Error (4.4.3)
+Debug Failure. Did not expect JsxClosingFragment to have an Identifier in its trivia
+Error: Debug Failure. Did not expect JsxClosingFragment to have an Identifier in its trivia
+    at addSyntheticNodes (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155629:30)
+    at createChildren (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155618:9)
+    at NodeObject.getChildren (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155562:56)
+    at getTokenAtPositionWorker (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121524:43)
+    at getTouchingToken (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121511:16)
+    at Object.getTouchingPropertyName (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121503:16)
+    at Object.getDocumentHighlights (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:128567:27)
+    at Proxy.getDocumentHighlights (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:156894:42)
+    at IOSession.Session.getDocumentHighlights (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:167883:71)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:167185:61)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168880:88
+    at IOSession.Session.executeWithRequestId (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168871:28)
+    at IOSession.Session.executeCommand (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168880:33)
+    at IOSession.Session.onMessage (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168906:35)
+    at Interface.<anonymous> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:171511:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+	at Function.create (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:459856)
+	at dispatchResponse (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:453692)
+	at dispatchMessage (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:452549)
+	at /usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:452034
+	at a.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at m.onLengthData (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:462785)
+	at Socket.<anonymous> (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:462432)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-11-04 18:38:54.875] [renderer1] [error] <semantic> TypeScript Server Error (4.4.3)
+Debug Failure. Did not expect JsxClosingFragment to have an Identifier in its trivia
+Error: Debug Failure. Did not expect JsxClosingFragment to have an Identifier in its trivia
+    at addSyntheticNodes (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155629:30)
+    at createChildren (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155618:9)
+    at NodeObject.getChildren (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155562:56)
+    at getTokenAtPositionWorker (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121524:43)
+    at Object.getTokenAtPosition (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121516:16)
+    at getInfo (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:150765:28)
+    at Object.getAvailableActions (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:150735:28)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:142780:30
+    at getIterator (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:573:23)
+    at Object.flatMapIterator (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:556:27)
+    at Object.getApplicableRefactors (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:142776:36)
+    at Proxy.getApplicableRefactors (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:157560:32)
+    at IOSession.Session.getApplicableRefactors (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168512:53)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:167223:61)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168880:88
+    at IOSession.Session.executeWithRequestId (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168871:28)
+    at IOSession.Session.executeCommand (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168880:33)
+    at IOSession.Session.onMessage (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168906:35)
+    at Interface.<anonymous> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:171511:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23): Error: <semantic> TypeScript Server Error (4.4.3)
+Debug Failure. Did not expect JsxClosingFragment to have an Identifier in its trivia
+Error: Debug Failure. Did not expect JsxClosingFragment to have an Identifier in its trivia
+    at addSyntheticNodes (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155629:30)
+    at createChildren (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155618:9)
+    at NodeObject.getChildren (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155562:56)
+    at getTokenAtPositionWorker (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121524:43)
+    at Object.getTokenAtPosition (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121516:16)
+    at getInfo (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:150765:28)
+    at Object.getAvailableActions (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:150735:28)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:142780:30
+    at getIterator (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:573:23)
+    at Object.flatMapIterator (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:556:27)
+    at Object.getApplicableRefactors (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:142776:36)
+    at Proxy.getApplicableRefactors (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:157560:32)
+    at IOSession.Session.getApplicableRefactors (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168512:53)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:167223:61)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168880:88
+    at IOSession.Session.executeWithRequestId (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168871:28)
+    at IOSession.Session.executeCommand (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168880:33)
+    at IOSession.Session.onMessage (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168906:35)
+    at Interface.<anonymous> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:171511:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+	at Function.create (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:459856)
+	at dispatchResponse (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:453692)
+	at dispatchMessage (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:452549)
+	at /usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:452034
+	at a.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at m.onLengthData (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:462785)
+	at Socket.<anonymous> (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:462432)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)

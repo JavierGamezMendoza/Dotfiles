@@ -1,0 +1,19 @@
+[2021-10-24 12:12:48.355] [exthost] [info] extension host started
+[2021-10-24 12:12:48.355] [exthost] [info] Skipping acquiring lock for /home/habi/.config/Code - OSS/User/workspaceStorage/f5047618b76486e94e185014e4383d02.
+[2021-10-24 12:12:48.487] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-10-24 12:12:48.487] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2021-10-24 12:12:48.490] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-10-24 12:12:48.490] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2021-10-24 12:12:48.508] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: true, activationEvent: '*'
+[2021-10-24 12:12:48.509] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/habi/.vscode-oss/extensions/pkief.material-icon-theme-4.10.0/dist/extension
+[2021-10-24 12:12:48.718] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-10-24 12:12:48.719] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/github/dist/extension.js
+[2021-10-24 12:12:48.746] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.clearAutoAttachVariables'
+[2021-10-24 12:12:48.746] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/ms-vscode.js-debug/src/extension.js
+[2021-10-24 12:12:48.857] [exthost] [info] eager extensions activated
+[2021-10-24 12:12:48.864] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-24 12:12:48.864] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/node/emmetNodeMain
+[2021-10-24 12:12:48.870] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-24 12:12:48.870] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/mergeConflictMain
+[2021-10-24 12:16:10.049] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-10-24 12:16:11.055] [exthost] [info] exiting with code 0

@@ -1,0 +1,7 @@
+2021/11/04-20:05:31.962 1bbc Reusing MANIFEST /home/habi/.config/google-chrome/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/04-20:05:31.962 1bbc Recovering log #3
+2021/11/04-20:05:32.242 1bbc Reusing old log /home/habi/.config/google-chrome/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/000003.log 
+2021/11/04-20:05:34.535 1bbc Level-0 table #5: started
+2021/11/04-20:05:34.591 1bbc Level-0 table #5: 615318 bytes OK
+2021/11/04-20:05:34.629 1bbc Delete type=0 #3
+2021/11/04-20:05:34.629 1bbc Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,12 @@
+[2021-10-24 12:06:22.064] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-10-24 12:06:22.065] [sharedprocess] [info] [logs cleanup]: Removing log folders '20211023T174003'
+[2021-10-24 12:06:42.074] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-10-24 12:06:42.086] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-10-24 12:06:52.063] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-10-24 12:09:47.912] [sharedprocess] [info] Installing extension: ms-ceintl.vscode-language-pack-es
+[2021-10-24 12:09:49.330] [sharedprocess] [info] Downloaded extension: ms-ceintl.vscode-language-pack-es /home/habi/.config/Code - OSS/CachedExtensionVSIXs/ms-ceintl.vscode-language-pack-es-1.60.4
+[2021-10-24 12:09:49.584] [sharedprocess] [info] Extracted extension to /home/habi/.vscode-oss/extensions/.0db71a59-178c-46d4-942a-631c1dafd69d: ms-ceintl.vscode-language-pack-es
+[2021-10-24 12:09:49.654] [sharedprocess] [info] Renamed to /home/habi/.vscode-oss/extensions/ms-ceintl.vscode-language-pack-es-1.60.4
+[2021-10-24 12:09:49.656] [sharedprocess] [info] Extracting completed. ms-ceintl.vscode-language-pack-es
+[2021-10-24 12:09:49.656] [sharedprocess] [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+[2021-10-24 12:09:49.778] [sharedprocess] [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es

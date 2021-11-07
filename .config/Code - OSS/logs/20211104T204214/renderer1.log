@@ -1,0 +1,11 @@
+[2021-11-04 20:42:16.449] [renderer1] [info] Starting extension host with pid 8293.
+[2021-11-04 20:42:16.509] [renderer1] [error] Error: Unable to read file '/home/habi/git/ahorcado.js' (Error: Unable to resolve nonexistent file '/home/habi/git/ahorcado.js')
+    at i.handleSetInputError (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2399:142707)
+    at i.handleSetInputError (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2399:146498)
+    at i.setInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2399:142401)
+    at async h.doSetInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2399:34236)
+    at async h.doOpenEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2399:32636)
+    at async h.openEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2399:32284)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2601:16907
+[2021-11-04 20:42:16.796] [renderer1] [error] [Extension Host] (node:8293) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
