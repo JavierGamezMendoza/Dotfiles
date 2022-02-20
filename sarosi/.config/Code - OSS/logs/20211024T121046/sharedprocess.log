@@ -1,6 +1,0 @@
-[2021-10-24 12:10:58.914] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
-[2021-10-24 12:10:58.915] [sharedprocess] [info] [logs cleanup]: Removing log folders '20211023T174451'
-[2021-10-24 12:11:18.909] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
-[2021-10-24 12:11:18.910] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
-[2021-10-24 12:11:28.913] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
-[2021-10-24 12:11:28.915] [sharedprocess] [info] [language pack cache cleanup]: Skipping folder 23fcc0152ea6b53887288b6bf82c9467.es. Language pack still in use.

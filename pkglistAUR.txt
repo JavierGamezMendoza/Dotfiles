@@ -1,0 +1,10 @@
+cava
+droidcam
+google-chrome
+komorebi
+nerd-fonts-ubuntu-mono
+package-query
+shantz-xwinwrap-bzr
+v4l2loopback-dc-dkms
+yaourt
+yay

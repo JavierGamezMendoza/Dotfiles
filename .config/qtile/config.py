@@ -26,7 +26,6 @@
 
 from typing import List  # noqa: F401
 
-from libqtile import widget
 from libqtile import bar, layout, widget, hook
 from libqtile.config import Click, Drag, Group, Key, Match, Screen
 from libqtile.lazy import lazy
@@ -104,9 +103,33 @@ keys = [
 
     # Visual Studio
     Key([mod], "c", lazy.spawn("code")),
+
+    #Discord
+    Key([mod], "d", lazy.spawn("discord")),
+
+    #Minecraft
+    Key([mod], "t", lazy.spawn("java -jar /home/habi/Tlauncher/TLauncher-2.83.jar")),
+
+    #Gimp
+    Key([mod], "g", lazy.spawn("gimp")),
+
+    #Pycharm
+    Key([mod], "p", lazy.spawn("pycharm")),
+
+    #Droidcam
+    Key([mod], "v", lazy.spawn("droidcam")),
+
+    #OBS
+    Key([mod], "s", lazy.spawn("obs")),
+
+    #SCREENSHOT
+    Key([mod], "x", lazy.spawn("scrot /home/habi/Screenshoots/")),
+
+    #FRITZING
+    Key([mod], "f", lazy.spawn("Fritzing")),
 ]
 
-groups = [Group(i) for i in [" "," "," "," "," "," "," "]]
+groups = [Group(i) for i in [" "," "," "," "," "," "," "]]
 
 for i, group in enumerate(groups):
     actual_key = str(i + 1)
@@ -118,25 +141,25 @@ for i, group in enumerate(groups):
     ])
 
 layout_conf = {
-    'border_focus': '#F07178',
+    'border_focus': '#61adff',
     'border_width': 1,
     'margin': 4
 }
 
 layouts = [
-    #layout.Columns(border_focus_stack=['#d75f5f', '#8f3d3d'], border_width=4),
+    # layout.Columns(border_focus_stack=['#d75f5f', '#8f3d3d'], border_width=4),
     layout.Max(),
     # Try more layouts by unleashing below layouts.
-    #layout.Stack(num_stacks=2),
-    #layout.Bsp(),
-    #layout.Matrix(),
-    #layout.MonadTall(**layout_conf),
-    layout.MonadWide(),
-    #layout.RatioTile(),
-    #layout.Tile(),
-    #layout.TreeTab(),
-    #layout.VerticalTile(),
-    #layout.Zoomy(),
+    # layout.Stack(num_stacks=2),
+    # layout.Bsp(),
+    # layout.Matrix(),
+    layout.MonadTall(**layout_conf),
+    # layout.MonadWide(),
+    # layout.RatioTile(),
+    # layout.Tile(),
+    # layout.TreeTab(),
+    # layout.VerticalTile(),
+    # layout.Zoomy(),
 ]
 
 widget_defaults = dict(
@@ -164,13 +187,13 @@ screens = [
                     inactive=["#f1ffff", "#f1ffff"],
                     rounded=False,
                     highlight_method='block',
-                    this_current_screen_border=["#F07178", "#F07178"],
+                    this_current_screen_border=["#61adff", "#61adff"],
                     this_screen_border=["#5c5c5c", "#5c5c5c"],
                     other_current_screen_border=["#0f101a", "#0f101a"],
                     other_screen_border=["#0f101a", "#0f101a"]
                 ),
                 widget.WindowName(
-                    foreground=["#F07178", "#F07178"],
+                    foreground=["#61f6ff", "#61f6ff"],
                     background=["#0f101a", "#0f101a"],
                     fontsize=13,
                     font='UbuntuMono Nerd Font Bold'
@@ -180,25 +203,23 @@ screens = [
                     filename=path.join(path.expanduser('~'), '.config', 'qtile', 'img', 'bar4.png')
                 ),
                 widget.TextBox(
-                    background=["#ffd47e","#ffd47e"],
-                    text="  "
+                    background=["#61f6ff","#61f6ff"],
+                    text=""
                 ),
-                widget.CheckUpdates(
-                    background=["#fb9f7f", "#fb9f7f"],
-                    foreground=["#0f101a", "#0f101a"],
-                    execute='alacritty',
-                    update_interval=1800
+                widget.Memory(
+                    background=["#61f6ff","#61f6ff"],
+                    foreground=["#0f101a", "#0f101a"]
                 ),
                  widget.Image(
                     filename=path.join(path.expanduser('~'), '.config', 'qtile', 'img', 'bar3.png')
                 ),
                 widget.TextBox(
-                    background=["#fb9f7f", "#fb9f7f"],
+                    background=["#61adff", "#61adff"],
                     foreground=["#0f101a", "#0f101a"],
                     text="  "
                 ),
                 widget.Net(
-                    background=["#fb9f7f", "#fb9f7f"],
+                    background=["#61adff", "#61adff"],
                     foreground=["#0f101a", "#0f101a"],
                 ),
                 # widget.Sep(
@@ -211,12 +232,12 @@ screens = [
                 ),
                 widget.CurrentLayoutIcon(
                     foreground=["#0f101a", "#0f101a"],
-                    background=["#F07178", "#F07178"],
+                    background=["#5a53ff", "#5a53ff"],
                     scale=0.65
                 ),
                 widget.CurrentLayout(
                     foreground=["#0f101a", "#0f101a"],
-                    background=["#F07178", "#F07178"]
+                    background=["#5a53ff", "#5a53ff"]
                 ),
                 # widget.Sep(
                 #     linewidth=0,
@@ -227,12 +248,12 @@ screens = [
                     filename=path.join(path.expanduser('~'), '.config', 'qtile', 'img', 'bar1.png')
                 ),
                 widget.TextBox(
-                    background=["#a151d3", "#a151d3"],
+                    background=["#a36bff", "#a36bff"],
                     foreground=["#0f101a", "#0f101a"],
                     text=" "
                 ),
                 widget.Clock(
-                    background=["#a151d3", "#a151d3"],
+                    background=["#a36bff", "#a36bff"],
                     foreground=["#0f101a", "#0f101a"],
                     padding=5,
                     format='%d/%m/%Y - %H:%M '
@@ -259,18 +280,17 @@ screens = [
                     inactive=["#f1ffff", "#f1ffff"],
                     rounded=False,
                     highlight_method='block',
-                    this_current_screen_border=["#F07178", "#F07178"],
+                    this_current_screen_border=["#61adff", "#61adff"],
                     this_screen_border=["#5c5c5c", "#5c5c5c"],
                     other_current_screen_border=["#0f101a", "#0f101a"],
                     other_screen_border=["#0f101a", "#0f101a"]
                 ),
                 widget.WindowName(
-                    foreground=["#F07178", "#F07178"],
+                    foreground=["#61f6ff", "#61f6ff"],
                     background=["#0f101a", "#0f101a"],
                     fontsize=13,
                     font='UbuntuMono Nerd Font Bold'
                 ),
-                
                 # widget.Sep(
                 #     linewidth=0,
                 #     padding=5,
@@ -281,12 +301,21 @@ screens = [
                 ),
                 widget.CurrentLayoutIcon(
                     foreground=["#0f101a", "#0f101a"],
-                    background=["#F07178", "#F07178"],
+                    background=["#5a53ff", "#5a53ff"],
                     scale=0.65
                 ),
                 widget.CurrentLayout(
                     foreground=["#0f101a", "#0f101a"],
-                    background=["#F07178", "#F07178"]
+                    background=["#5a53ff", "#5a53ff"]
+                ),
+                widget.Image(
+                    filename=path.join(path.expanduser('~'), '.config', 'qtile', 'img', 'bar1.png')
+                ),
+                widget.Clock(
+                    background=["#a36bff", "#a36bff"],
+                    foreground=["#0f101a", "#0f101a"],
+                    padding=5,
+                    format='%d/%m/%Y - %H:%M '
                 ),
                 # widget.Sep(
                 #     linewidth=0,

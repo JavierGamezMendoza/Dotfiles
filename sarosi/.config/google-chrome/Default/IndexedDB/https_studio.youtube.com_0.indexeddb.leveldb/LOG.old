@@ -1,6 +1,0 @@
-2021/11/05-18:59:24.715 29e Creating DB /home/habi/.config/google-chrome/Default/IndexedDB/https_studio.youtube.com_0.indexeddb.leveldb since it was missing.
-2021/11/05-18:59:24.869 29e Reusing MANIFEST /home/habi/.config/google-chrome/Default/IndexedDB/https_studio.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/11/05-18:59:52.299 4bb Level-0 table #5: started
-2021/11/05-18:59:52.344 4bb Level-0 table #5: 2510 bytes OK
-2021/11/05-18:59:52.433 4bb Delete type=0 #3
-2021/11/05-18:59:52.433 4bb Manual compaction at level-0 from (begin) .. (end); will stop at (end)

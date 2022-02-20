@@ -1,4 +1,0 @@
-[2021-11-02 15:24:54.874] [renderer1] [info] Starting extension host with pid 1095.
-[2021-11-02 15:24:58.876] [renderer1] [error] [Extension Host] (node:1095) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
-(Use `electron --trace-deprecation ...` to show where the warning was created)
-[2021-11-02 15:25:06.121] [renderer1] [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: No se puede escribir el archivo "/etc/lightdm/lightdm-webkit2-greeter.conf" (Error: Archivo Modificado Desde) file:///etc/lightdm/lightdm-webkit2-greeter.conf
